@@ -9,8 +9,8 @@ from email.header import Header
 class Mail:
     def __init__(self):
         self.mail_host = 'smtp.qq.com'
-        self.mail_pass = 'xqlajoqtdppxbbjh'  # 授权码
-        self.sender = '705248010@qq.com'
+        self.mail_pass = ''  # 授权码
+        self.sender = ''  # 发送人
         self.receiver, self.sender_name, self.receiver_name = self.read_conf()
         self.logger = Logging()
 

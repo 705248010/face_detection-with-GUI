@@ -30,7 +30,7 @@ class Scheduler:
 
     # 执行定时任务
     def run_scheduler(self):
-        schedule.every(10).seconds.do(self.job)
+        schedule.every(24).days.do(self.job)
         while True:
             schedule.run_pending()
             if self.isCancelSchedule:
