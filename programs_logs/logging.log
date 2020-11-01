@@ -1,0 +1,94 @@
+2020-10-31 09:14:19,128[INFO] - open capture
+2020-10-31 09:14:26,905[INFO] - hzk entered lab
+2020-10-31 09:14:27,139[INFO] - hzk entered lab
+2020-10-31 09:14:28,964[INFO] - unknown entered lab
+2020-10-31 09:14:30,167[INFO] - hzk entered lab
+2020-10-31 09:14:33,168[INFO] - hzk entered lab
+2020-10-31 09:14:33,670[INFO] - unknown entered lab
+2020-10-31 09:14:36,843[INFO] - hzk entered lab
+2020-10-31 09:14:39,181[INFO] - hzk entered lab
+2020-10-31 09:14:40,373[INFO] - unknown entered lab
+2020-10-31 09:14:42,190[INFO] - hzk entered lab
+2020-10-31 09:14:43,079[INFO] - unknown entered lab
+2020-10-31 09:14:45,227[INFO] - hzk entered lab
+2020-10-31 09:14:48,270[INFO] - hzk entered lab
+2020-10-31 09:18:20,973[WARNING] - usr try to open motion tracking, but capture not open
+2020-10-31 09:18:25,371[INFO] - open capture
+2020-10-31 09:19:04,400[INFO] - open capture
+2020-10-31 09:20:05,646[INFO] - open capture
+2020-10-31 12:57:20,167[WARNING] - usr try to open people detection, but capture not open
+2020-10-31 14:17:32,768[INFO] - open capture
+2020-10-31 14:17:39,822[INFO] - thread pool start
+2020-10-31 14:20:44,422[WARNING] - usr try to open face recognition, but capture not open
+2020-10-31 14:20:45,022[INFO] - open capture
+2020-10-31 14:21:20,730[INFO] - open capture
+2020-10-31 14:21:28,917[INFO] - thread pool start
+2020-10-31 14:43:46,033[INFO] - open capture
+2020-10-31 14:43:52,375[INFO] - thread pool start
+2020-10-31 14:44:38,060[INFO] - open capture
+2020-10-31 14:45:05,946[INFO] - open capture
+2020-10-31 14:45:28,731[INFO] - open capture
+2020-10-31 14:45:35,417[INFO] - thread pool start
+2020-10-31 14:46:22,590[INFO] - open capture
+2020-10-31 14:46:27,887[INFO] - thread pool start
+2020-10-31 14:46:37,150[INFO] - open capture
+2020-10-31 14:47:08,909[INFO] - open capture
+2020-10-31 14:48:33,226[INFO] - open capture
+2020-10-31 14:48:40,174[INFO] - thread pool start
+2020-10-31 14:52:36,009[INFO] - open capture
+2020-10-31 14:53:00,254[INFO] - open capture
+2020-10-31 14:53:05,827[INFO] - thread pool start
+2020-10-31 14:53:37,776[INFO] - open capture
+2020-10-31 14:53:44,101[INFO] - thread pool start
+2020-10-31 14:54:12,966[INFO] - open capture
+2020-10-31 14:54:18,740[INFO] - thread pool start
+2020-10-31 14:54:41,600[INFO] - open capture
+2020-10-31 14:54:46,885[INFO] - thread pool start
+2020-10-31 14:54:51,339[INFO] - hzk entered lab
+2020-10-31 14:54:52,911[INFO] - hzk entered lab
+2020-10-31 14:54:55,908[INFO] - hzk entered lab
+2020-10-31 14:55:08,441[WARNING] - usr try to open face recognition, but capture not open
+2020-10-31 14:55:09,073[INFO] - open capture
+2020-10-31 14:55:16,635[INFO] - hzk entered lab
+2020-10-31 14:55:17,780[INFO] - hzk entered lab
+2020-10-31 14:55:20,810[INFO] - hzk entered lab
+2020-10-31 14:57:31,253[INFO] - open capture
+2020-10-31 14:57:59,100[INFO] - open capture
+2020-10-31 14:58:06,020[INFO] - thread pool start
+2020-10-31 14:59:07,090[INFO] - open capture
+2020-10-31 14:59:15,756[INFO] - thread pool start
+2020-10-31 14:59:58,311[INFO] - open capture
+2020-10-31 15:00:05,986[INFO] - thread pool start
+2020-10-31 15:00:22,102[INFO] - open capture
+2020-10-31 15:00:29,713[INFO] - thread pool start
+2020-10-31 15:00:43,236[INFO] - open capture
+2020-10-31 15:01:02,085[INFO] - open capture
+2020-10-31 15:01:10,174[INFO] - thread pool start
+2020-10-31 15:32:12,935[INFO] - root database success
+2020-10-31 15:33:09,418[INFO] - open capture
+2020-10-31 15:48:02,494[INFO] - insert data success
+2020-10-31 15:49:40,007[INFO] - insert data success
+2020-10-31 15:51:00,406[INFO] - search data success, field is USR_NAME, data is {'FACE_ID': 1, 'USR_NAME': '1', 'USR_NAME_CHAR': '1', 'IS_TRAINED': 0}
+2020-10-31 15:51:02,975[INFO] - delete data success, field is USR_NAME, data is {'FACE_ID': 1, 'USR_NAME': '1', 'USR_NAME_CHAR': '1', 'IS_TRAINED': 0}
+2020-10-31 15:51:05,452[INFO] - insert data success
+2020-10-31 15:51:06,452[INFO] - search data success, field is USR_NAME, data is {'FACE_ID': 1, 'USR_NAME': '1', 'USR_NAME_CHAR': '1', 'IS_TRAINED': 0}
+2020-10-31 15:51:20,309[INFO] - open capture
+2020-10-31 15:51:37,456[INFO] - start collect face...
+2020-10-31 15:51:41,684[INFO] - face data collect finish
+2020-10-31 15:51:41,684[INFO] - close capture
+2020-10-31 15:51:47,512[INFO] - train start
+2020-10-31 15:51:49,022[INFO] - 1 faces trained
+2020-10-31 15:51:49,022[INFO] - train end
+2020-10-31 15:51:51,950[INFO] - open capture
+2020-10-31 15:51:57,072[INFO] - thread pool start
+2020-10-31 15:52:01,427[INFO] - 1 entered lab
+2020-10-31 15:52:03,166[INFO] - 1 entered lab
+2020-10-31 15:52:05,083[INFO] - unknown entered lab
+2020-10-31 15:52:06,186[INFO] - 1 entered lab
+2020-10-31 15:52:07,522[INFO] - unknown entered lab
+2020-10-31 16:32:29,825[INFO] - open capture
+2020-10-31 16:32:45,294[INFO] - Running job Every 10 seconds do job() (last run: [never], next run: 2020-10-31 16:32:45)
+2020-10-31 16:32:48,075[INFO] - send mail success
+2020-11-01 14:08:28,872[INFO] - email info save success
+2020-11-01 14:08:31,504[ERROR] - email info save filed
+2020-11-01 14:08:35,142[INFO] - email info save success
