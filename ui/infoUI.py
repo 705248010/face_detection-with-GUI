@@ -34,6 +34,6 @@ class Ui_Form(object):
         _translate = QtCore.QCoreApplication.translate
         Form.setWindowTitle(_translate("Form", "Form"))
         self.label_2.setText(_translate("Form", "All Rights Received @kurong"))
-        self.label_3.setText(_translate("Form", "本项目github地址："))
+        self.label_3.setText(_translate("Form", "本项目github地址，http://github.com/705248010/face_detection-with-GUI/tree/master"))
         self.label_4.setText(_translate("Form", "开发时间：2020.11.1"))
         self.label_5.setText(_translate("Form", "开发者：枯荣止蚀(hzk)"))
